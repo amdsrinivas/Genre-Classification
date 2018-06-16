@@ -1,0 +1,4 @@
+{
+    "backend" : "theano" ,
+    "image_dim_ordering" : "th"
+}
